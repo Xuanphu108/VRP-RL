@@ -1,7 +1,9 @@
 
 # Setup environment
 conda create -n VRP python=3.6 -y
+
 source activate VRP
+
 conda install tensorflow-gpu=1.2.1
 
 # Reinforcement Learning for Solving the Vehicle Routing Problem
