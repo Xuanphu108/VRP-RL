@@ -1,0 +1,27 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "main",
+  "build_number": 0,
+  "channel": "https://repo.continuum.io/pkgs/main/linux-64",
+  "depends": [],
+  "files": [],
+  "fn": "_libgcc_mutex-0.1-main.tar.bz2",
+  "link": {
+    "source": "/home/xuanphu/anaconda3/pkgs/_libgcc_mutex-0.1-main",
+    "type": 1
+  },
+  "md5": "013d3f22cd3b87f71224bd936765bcad",
+  "name": "_libgcc_mutex",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 3121,
+  "subdir": "linux-64",
+  "timestamp": 1562011674792,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/_libgcc_mutex-0.1-main.tar.bz2",
+  "version": "0.1",
+  "with_features_depends": {}
+}

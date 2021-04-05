@@ -1,0 +1,30 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "h53a641e_7",
+  "build_number": 7,
+  "channel": "https://repo.continuum.io/pkgs/main/linux-64",
+  "depends": [],
+  "files": [
+    "bin/x86_64-conda_cos6-linux-gnu-ld"
+  ],
+  "fn": "ld_impl_linux-64-2.33.1-h53a641e_7.tar.bz2",
+  "license": "GPL 3",
+  "link": {
+    "source": "/home/xuanphu/anaconda3/pkgs/ld_impl_linux-64-2.33.1-h53a641e_7",
+    "type": 1
+  },
+  "md5": "85a01d2f8a5faa97fa2dfcc7ad7852e6",
+  "name": "ld_impl_linux-64",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 660486,
+  "subdir": "linux-64",
+  "timestamp": 1576704246287,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/ld_impl_linux-64-2.33.1-h53a641e_7.tar.bz2",
+  "version": "2.33.1",
+  "with_features_depends": {}
+}

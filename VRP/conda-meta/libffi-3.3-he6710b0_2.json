@@ -1,0 +1,45 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "he6710b0_2",
+  "build_number": 2,
+  "channel": "https://repo.continuum.io/pkgs/main/linux-64",
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "libstdcxx-ng >=7.3.0"
+  ],
+  "files": [
+    "include/ffi.h",
+    "include/ffitarget.h",
+    "lib/libffi.a",
+    "lib/libffi.so",
+    "lib/libffi.so.6",
+    "lib/libffi.so.7",
+    "lib/libffi.so.7.1.0",
+    "lib/pkgconfig/libffi.pc",
+    "share/info/libffi.info",
+    "share/man/man3/ffi.3",
+    "share/man/man3/ffi_call.3",
+    "share/man/man3/ffi_prep_cif.3",
+    "share/man/man3/ffi_prep_cif_var.3"
+  ],
+  "fn": "libffi-3.3-he6710b0_2.tar.bz2",
+  "license": "Custom",
+  "link": {
+    "source": "/home/xuanphu/anaconda3/pkgs/libffi-3.3-he6710b0_2",
+    "type": 1
+  },
+  "md5": "822b5201dde61bc838072dc5b670c88c",
+  "name": "libffi",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 55183,
+  "subdir": "linux-64",
+  "timestamp": 1594054267890,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/libffi-3.3-he6710b0_2.tar.bz2",
+  "version": "3.3",
+  "with_features_depends": {}
+}

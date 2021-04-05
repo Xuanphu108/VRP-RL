@@ -1,0 +1,31 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "h06a4308_1",
+  "build_number": 1,
+  "channel": "https://repo.continuum.io/pkgs/main/linux-64",
+  "depends": [],
+  "files": [
+    "ssl/cacert.pem",
+    "ssl/cert.pem"
+  ],
+  "fn": "ca-certificates-2021.1.19-h06a4308_1.tar.bz2",
+  "license": "MPL 2.0",
+  "link": {
+    "source": "/home/xuanphu/anaconda3/pkgs/ca-certificates-2021.1.19-h06a4308_1",
+    "type": 1
+  },
+  "md5": "604f37a892a9abbddde9247a1d640880",
+  "name": "ca-certificates",
+  "noarch": null,
+  "platform": "linux",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 128282,
+  "subdir": "linux-64",
+  "timestamp": 1615236578251,
+  "url": "https://repo.continuum.io/pkgs/main/linux-64/ca-certificates-2021.1.19-h06a4308_1.tar.bz2",
+  "version": "2021.1.19",
+  "with_features_depends": {}
+}
